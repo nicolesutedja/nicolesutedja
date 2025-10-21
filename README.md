@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolesutedja
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Coding Projects!
 - 📫 How to reach me: nsutedja@ucsd.edu
 - 😄 Pronouns: she/her
