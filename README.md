@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Coding Projects!
-- 📫 How to reach me: nsutedja@ucsd.edu
+- 📫 How to reach me: nsutedja[at]ucsd[dot]edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to play tennis!
 
