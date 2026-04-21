@@ -8,6 +8,9 @@ I'm a Computer Science student at **UC San Diego**  passionate about building ef
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun Fact:** I love playing tennis! 🎾
 
+## 💕 My Portfolio
+Check it out [here](https://nicolesutedja.github.io/portfolio/)
+
 ## 📫 Get in Touch
 * **Email:** [nsutedja@ucsd.edu](mailto:nsutedja@ucsd.edu)
 * **LinkedIn:** [linkedin.com/in/nicolesutedja](https://www.linkedin.com/in/nicolesutedja)
