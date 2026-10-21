@@ -2,9 +2,9 @@
 ## 🔱 About Me
 I'm a Computer Science student at **UC San Diego**  passionate about building efficient software and working on projects for social impact. I love to explore the possibilities of technology and how it can help our community. I am passionate about programming, working alongside a team, event planning, and learning new things every day. Feel free to reach out if you'd like to connect, have a chat, or explore innovative ideas together! ☕️✨
 
-- 👀 **Interested in:** Software Development & Systems Programming
-- 🌱 **Currently Learning:** Web Development
-- 💞️ **Looking to Collaborate:** Open to any fun coding projects or open-source contributions!
+- 👀 **Interested in:** SWE & PM Roles
+- 🌱 **Currently Learning:** Open Source contribution
+- 💞️ **Looking to Collaborate:** Open to any fun coding projects
 - 😄 **Pronouns:** she/her
 - ⚡ **Fun Fact:** I love playing tennis! 🎾
 
